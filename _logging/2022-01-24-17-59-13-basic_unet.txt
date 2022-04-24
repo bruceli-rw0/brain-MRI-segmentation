@@ -1,0 +1,175 @@
+01/24/2022 17:59:13 - INFO - __main__ - Loading data...
+01/24/2022 17:59:21 - INFO - numexpr.utils - NumExpr defaulting to 2 threads.
+01/24/2022 17:59:21 - INFO - __main__ - Experiment started.
+01/24/2022 17:59:21 - INFO - __main__ - Training epoch 1...
+01/24/2022 17:59:21 - INFO - __main__ - Epoch: 1 Train loss: 1.0229222774505615
+01/24/2022 17:59:25 - INFO - __main__ - Epoch: 1 Train loss: 0.10052044689655304
+01/24/2022 17:59:30 - INFO - __main__ - Epoch: 1 Train loss: 0.12326425313949585
+01/24/2022 17:59:35 - INFO - __main__ - Epoch: 1 Train loss: 0.04005570709705353
+01/24/2022 17:59:39 - INFO - __main__ - Epoch: 1 Train loss: 0.04174218326807022
+01/24/2022 17:59:44 - INFO - __main__ - Epoch: 1 Train loss: 0.06393235921859741
+01/24/2022 17:59:48 - INFO - __main__ - Epoch: 1 Train loss: 0.01612696796655655
+01/24/2022 17:59:53 - INFO - __main__ - Epoch: 1 Train loss: 0.05757913738489151
+01/24/2022 17:59:57 - INFO - __main__ - Epoch: 1 Train loss: 0.033358775079250336
+01/24/2022 17:59:59 - INFO - __main__ - Epoch 1 training complete
+01/24/2022 17:59:59 - INFO - __main__ - Validating epoch 1...
+01/24/2022 18:00:08 - INFO - __main__ - Epoch 1 validation complete
+01/24/2022 18:00:08 - INFO - __main__ - Training epoch 2...
+01/24/2022 18:00:08 - INFO - __main__ - Epoch: 2 Train loss: 0.03464706614613533
+01/24/2022 18:00:12 - INFO - __main__ - Epoch: 2 Train loss: 0.04044464975595474
+01/24/2022 18:00:17 - INFO - __main__ - Epoch: 2 Train loss: 0.03405420854687691
+01/24/2022 18:00:22 - INFO - __main__ - Epoch: 2 Train loss: 0.03264285996556282
+01/24/2022 18:00:26 - INFO - __main__ - Epoch: 2 Train loss: 0.03335320204496384
+01/24/2022 18:00:31 - INFO - __main__ - Epoch: 2 Train loss: 0.044544145464897156
+01/24/2022 18:00:35 - INFO - __main__ - Epoch: 2 Train loss: 0.03088460862636566
+01/24/2022 18:00:40 - INFO - __main__ - Epoch: 2 Train loss: 0.051029399037361145
+01/24/2022 18:00:45 - INFO - __main__ - Epoch: 2 Train loss: 0.020332561805844307
+01/24/2022 18:00:46 - INFO - __main__ - Epoch 2 training complete
+01/24/2022 18:00:46 - INFO - __main__ - Validating epoch 2...
+01/24/2022 18:00:55 - INFO - __main__ - Epoch 2 validation complete
+01/24/2022 18:00:55 - INFO - __main__ - Training epoch 3...
+01/24/2022 18:00:55 - INFO - __main__ - Epoch: 3 Train loss: 0.036995913833379745
+01/24/2022 18:01:00 - INFO - __main__ - Epoch: 3 Train loss: 0.02384469285607338
+01/24/2022 18:01:04 - INFO - __main__ - Epoch: 3 Train loss: 0.03696935251355171
+01/24/2022 18:01:09 - INFO - __main__ - Epoch: 3 Train loss: 0.027779262512922287
+01/24/2022 18:01:13 - INFO - __main__ - Epoch: 3 Train loss: 0.033171627670526505
+01/24/2022 18:01:18 - INFO - __main__ - Epoch: 3 Train loss: 0.03122682310640812
+01/24/2022 18:01:23 - INFO - __main__ - Epoch: 3 Train loss: 0.046673305332660675
+01/24/2022 18:01:27 - INFO - __main__ - Epoch: 3 Train loss: 0.05006910488009453
+01/24/2022 18:01:32 - INFO - __main__ - Epoch: 3 Train loss: 0.04246963933110237
+01/24/2022 18:01:33 - INFO - __main__ - Epoch 3 training complete
+01/24/2022 18:01:33 - INFO - __main__ - Validating epoch 3...
+01/24/2022 18:01:42 - INFO - __main__ - Epoch 3 validation complete
+01/24/2022 18:01:42 - INFO - __main__ - Training epoch 4...
+01/24/2022 18:01:42 - INFO - __main__ - Epoch: 4 Train loss: 0.025642776861786842
+01/24/2022 18:01:47 - INFO - __main__ - Epoch: 4 Train loss: 0.03984774649143219
+01/24/2022 18:01:51 - INFO - __main__ - Epoch: 4 Train loss: 0.027406737208366394
+01/24/2022 18:01:56 - INFO - __main__ - Epoch: 4 Train loss: 0.045881010591983795
+01/24/2022 18:02:00 - INFO - __main__ - Epoch: 4 Train loss: 0.032016586512327194
+01/24/2022 18:02:05 - INFO - __main__ - Epoch: 4 Train loss: 0.04915548861026764
+01/24/2022 18:02:10 - INFO - __main__ - Epoch: 4 Train loss: 0.0296440701931715
+01/24/2022 18:02:14 - INFO - __main__ - Epoch: 4 Train loss: 0.02020164579153061
+01/24/2022 18:02:19 - INFO - __main__ - Epoch: 4 Train loss: 0.049881696701049805
+01/24/2022 18:02:20 - INFO - __main__ - Epoch 4 training complete
+01/24/2022 18:02:20 - INFO - __main__ - Validating epoch 4...
+01/24/2022 18:02:29 - INFO - __main__ - Epoch 4 validation complete
+01/24/2022 18:02:29 - INFO - __main__ - Training epoch 5...
+01/24/2022 18:02:29 - INFO - __main__ - Epoch: 5 Train loss: 0.02867061458528042
+01/24/2022 18:02:34 - INFO - __main__ - Epoch: 5 Train loss: 0.027989666908979416
+01/24/2022 18:02:38 - INFO - __main__ - Epoch: 5 Train loss: 0.02997763082385063
+01/24/2022 18:02:43 - INFO - __main__ - Epoch: 5 Train loss: 0.03441062569618225
+01/24/2022 18:02:47 - INFO - __main__ - Epoch: 5 Train loss: 0.026679985225200653
+01/24/2022 18:02:52 - INFO - __main__ - Epoch: 5 Train loss: 0.020145472139120102
+01/24/2022 18:02:57 - INFO - __main__ - Epoch: 5 Train loss: 0.02560059167444706
+01/24/2022 18:03:01 - INFO - __main__ - Epoch: 5 Train loss: 0.04058140143752098
+01/24/2022 18:03:06 - INFO - __main__ - Epoch: 5 Train loss: 0.027646249160170555
+01/24/2022 18:03:07 - INFO - __main__ - Epoch 5 training complete
+01/24/2022 18:03:07 - INFO - __main__ - Validating epoch 5...
+01/24/2022 18:03:16 - INFO - __main__ - Epoch 5 validation complete
+01/24/2022 18:03:16 - INFO - __main__ - Training epoch 6...
+01/24/2022 18:03:16 - INFO - __main__ - Epoch: 6 Train loss: 0.019526634365320206
+01/24/2022 18:03:21 - INFO - __main__ - Epoch: 6 Train loss: 0.04374631494283676
+01/24/2022 18:03:25 - INFO - __main__ - Epoch: 6 Train loss: 0.050623998045921326
+01/24/2022 18:03:30 - INFO - __main__ - Epoch: 6 Train loss: 0.028830548748373985
+01/24/2022 18:03:34 - INFO - __main__ - Epoch: 6 Train loss: 0.04120133817195892
+01/24/2022 18:03:39 - INFO - __main__ - Epoch: 6 Train loss: 0.04963235557079315
+01/24/2022 18:03:44 - INFO - __main__ - Epoch: 6 Train loss: 0.040842797607183456
+01/24/2022 18:03:48 - INFO - __main__ - Epoch: 6 Train loss: 0.017641814425587654
+01/24/2022 18:03:53 - INFO - __main__ - Epoch: 6 Train loss: 0.030144378542900085
+01/24/2022 18:03:54 - INFO - __main__ - Epoch 6 training complete
+01/24/2022 18:03:54 - INFO - __main__ - Validating epoch 6...
+01/24/2022 18:04:03 - INFO - __main__ - Epoch 6 validation complete
+01/24/2022 18:04:03 - INFO - __main__ - Training epoch 7...
+01/24/2022 18:04:03 - INFO - __main__ - Epoch: 7 Train loss: 0.023024912923574448
+01/24/2022 18:04:08 - INFO - __main__ - Epoch: 7 Train loss: 0.03959027677774429
+01/24/2022 18:04:12 - INFO - __main__ - Epoch: 7 Train loss: 0.0670236349105835
+01/24/2022 18:04:17 - INFO - __main__ - Epoch: 7 Train loss: 0.04936475306749344
+01/24/2022 18:04:21 - INFO - __main__ - Epoch: 7 Train loss: 0.04337320104241371
+01/24/2022 18:04:26 - INFO - __main__ - Epoch: 7 Train loss: 0.008241752162575722
+01/24/2022 18:04:31 - INFO - __main__ - Epoch: 7 Train loss: 0.030883831903338432
+01/24/2022 18:04:35 - INFO - __main__ - Epoch: 7 Train loss: 0.018270280212163925
+01/24/2022 18:04:40 - INFO - __main__ - Epoch: 7 Train loss: 0.014223889447748661
+01/24/2022 18:04:41 - INFO - __main__ - Epoch 7 training complete
+01/24/2022 18:04:41 - INFO - __main__ - Validating epoch 7...
+01/24/2022 18:04:50 - INFO - __main__ - Epoch 7 validation complete
+01/24/2022 18:04:50 - INFO - __main__ - Training epoch 8...
+01/24/2022 18:04:50 - INFO - __main__ - Epoch: 8 Train loss: 0.023217296227812767
+01/24/2022 18:04:55 - INFO - __main__ - Epoch: 8 Train loss: 0.0421130508184433
+01/24/2022 18:04:59 - INFO - __main__ - Epoch: 8 Train loss: 0.03244241699576378
+01/24/2022 18:05:04 - INFO - __main__ - Epoch: 8 Train loss: 0.04846319183707237
+01/24/2022 18:05:09 - INFO - __main__ - Epoch: 8 Train loss: 0.044401053339242935
+01/24/2022 18:05:13 - INFO - __main__ - Epoch: 8 Train loss: 0.04268524423241615
+01/24/2022 18:05:18 - INFO - __main__ - Epoch: 8 Train loss: 0.02558240108191967
+01/24/2022 18:05:22 - INFO - __main__ - Epoch: 8 Train loss: 0.028909903019666672
+01/24/2022 18:05:27 - INFO - __main__ - Epoch: 8 Train loss: 0.05022889003157616
+01/24/2022 18:05:28 - INFO - __main__ - Epoch 8 training complete
+01/24/2022 18:05:28 - INFO - __main__ - Validating epoch 8...
+01/24/2022 18:05:37 - INFO - __main__ - Epoch 8 validation complete
+01/24/2022 18:05:37 - INFO - __main__ - Training epoch 9...
+01/24/2022 18:05:37 - INFO - __main__ - Epoch: 9 Train loss: 0.03318313881754875
+01/24/2022 18:05:42 - INFO - __main__ - Epoch: 9 Train loss: 0.023730600252747536
+01/24/2022 18:05:46 - INFO - __main__ - Epoch: 9 Train loss: 0.03906727954745293
+01/24/2022 18:05:51 - INFO - __main__ - Epoch: 9 Train loss: 0.03846658393740654
+01/24/2022 18:05:56 - INFO - __main__ - Epoch: 9 Train loss: 0.004876167979091406
+01/24/2022 18:06:00 - INFO - __main__ - Epoch: 9 Train loss: 0.034556783735752106
+01/24/2022 18:06:05 - INFO - __main__ - Epoch: 9 Train loss: 0.017397398129105568
+01/24/2022 18:06:09 - INFO - __main__ - Epoch: 9 Train loss: 0.026545677334070206
+01/24/2022 18:06:14 - INFO - __main__ - Epoch: 9 Train loss: 0.023225845769047737
+01/24/2022 18:06:15 - INFO - __main__ - Epoch 9 training complete
+01/24/2022 18:06:15 - INFO - __main__ - Validating epoch 9...
+01/24/2022 18:06:24 - INFO - __main__ - Epoch 9 validation complete
+01/24/2022 18:06:24 - INFO - __main__ - Training epoch 10...
+01/24/2022 18:06:24 - INFO - __main__ - Epoch: 10 Train loss: 0.014208432286977768
+01/24/2022 18:06:29 - INFO - __main__ - Epoch: 10 Train loss: 0.04145091027021408
+01/24/2022 18:06:33 - INFO - __main__ - Epoch: 10 Train loss: 0.03342912718653679
+01/24/2022 18:06:38 - INFO - __main__ - Epoch: 10 Train loss: 0.027923977002501488
+01/24/2022 18:06:43 - INFO - __main__ - Epoch: 10 Train loss: 0.02568157948553562
+01/24/2022 18:06:47 - INFO - __main__ - Epoch: 10 Train loss: 0.03828716278076172
+01/24/2022 18:06:52 - INFO - __main__ - Epoch: 10 Train loss: 0.044153403490781784
+01/24/2022 18:06:56 - INFO - __main__ - Epoch: 10 Train loss: 0.043533772230148315
+01/24/2022 18:07:01 - INFO - __main__ - Epoch: 10 Train loss: 0.02009180374443531
+01/24/2022 18:07:02 - INFO - __main__ - Epoch 10 training complete
+01/24/2022 18:07:02 - INFO - __main__ - Validating epoch 10...
+01/24/2022 18:07:11 - INFO - __main__ - Epoch 10 validation complete
+01/24/2022 18:07:12 - INFO - __main__ - Run complete. Total time: 19:07:51
+01/24/2022 18:07:12 - INFO - __main__ - Testing...
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_161.nii.gz Dice 0.9253; Jaccard 0.860971
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_023.nii.gz Dice 0.8661; Jaccard 0.763792
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_269.nii.gz Dice 0.8724; Jaccard 0.773633
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_311.nii.gz Dice 0.8800; Jaccard 0.785777
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_233.nii.gz Dice 0.8857; Jaccard 0.794807
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_336.nii.gz Dice 0.8739; Jaccard 0.776066
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_290.nii.gz Dice 0.8729; Jaccard 0.774471
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_360.nii.gz Dice 0.8800; Jaccard 0.785668
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_157.nii.gz Dice 0.8915; Jaccard 0.804270
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_171.nii.gz Dice 0.9129; Jaccard 0.839824
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_008.nii.gz Dice 0.9132; Jaccard 0.840275
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_227.nii.gz Dice 0.9204; Jaccard 0.852490
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_124.nii.gz Dice 0.8762; Jaccard 0.779741
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_051.nii.gz Dice 0.9001; Jaccard 0.818329
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_354.nii.gz Dice 0.8834; Jaccard 0.791218
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_024.nii.gz Dice 0.8938; Jaccard 0.808057
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_127.nii.gz Dice 0.9074; Jaccard 0.830431
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_326.nii.gz Dice 0.8630; Jaccard 0.758949
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_160.nii.gz Dice 0.8897; Jaccard 0.801372
+01/24/2022 18:07:12 - INFO - __main__ - hippocampus_155.nii.gz Dice 0.9052; Jaccard 0.826810
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_098.nii.gz Dice 0.9048; Jaccard 0.826120
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_011.nii.gz Dice 0.9009; Jaccard 0.819703
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_158.nii.gz Dice 0.8943; Jaccard 0.808888
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_319.nii.gz Dice 0.8940; Jaccard 0.808258
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_144.nii.gz Dice 0.8927; Jaccard 0.806225
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_374.nii.gz Dice 0.9155; Jaccard 0.844143
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_368.nii.gz Dice 0.8725; Jaccard 0.773901
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_033.nii.gz Dice 0.9033; Jaccard 0.823578
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_294.nii.gz Dice 0.8856; Jaccard 0.794650
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_017.nii.gz Dice 0.9103; Jaccard 0.835451
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_304.nii.gz Dice 0.8842; Jaccard 0.792438
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_243.nii.gz Dice 0.8042; Jaccard 0.672459
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_138.nii.gz Dice 0.8984; Jaccard 0.815608
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_259.nii.gz Dice 0.8912; Jaccard 0.803806
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_289.nii.gz Dice 0.8729; Jaccard 0.774468
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_222.nii.gz Dice 0.8484; Jaccard 0.736734
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_025.nii.gz Dice 0.8724; Jaccard 0.773645
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_380.nii.gz Dice 0.9244; Jaccard 0.859408
+01/24/2022 18:07:13 - INFO - __main__ - hippocampus_003.nii.gz Dice 0.8276; Jaccard 0.705875
+01/24/2022 18:07:13 - INFO - __main__ - Testing complete.
