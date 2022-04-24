@@ -1,4 +1,4 @@
-# 3D Segmentation on Brain MRI to Measure Hippocampal Volume
+# Brain MRI Segmentation to Measure Hippocampal Volume
 
 ## Overview
 The project uses the dataset that contains the segmentations of the right hippocampus train a U-Net segmentation model to measure the hippocampus volume.
